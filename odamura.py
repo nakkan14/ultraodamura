@@ -4,7 +4,7 @@ import pandas as pd
 # データベース接続設定
 MYSQL_SERVER = 'tech0-db-step4-studentrdb-8.mysql.database.azure.com'
 MYSQL_USER = 'tech0gen5student'
-MYSQL_PASSWORD = 'vY7JZNfU8'
+MYSQL_PASSWORD = ''
 MYSQL_DB = 'otazunedb'
 TABLE_NAME = 'tourreservation'
 
